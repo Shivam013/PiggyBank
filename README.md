@@ -4,8 +4,8 @@
 </p>
 
 ### Team & Roles
-**TEAM LEADER:** Gargi Tawde  
-**OTHER DEVELOPERS:** Chint Patel, Shivam Amin, and Jun Wu
+**TEAM LEADER:**   
+**TEAM DEVELOPERS:** Shivam Amin, Chint Patel, Gargi Tawde, and Jun Wu
 
 ---
 ### Product Overview & Description 
